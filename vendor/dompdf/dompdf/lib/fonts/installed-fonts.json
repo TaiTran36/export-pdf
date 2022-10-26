@@ -1,0 +1,14 @@
+{
+    "ipaexg": {
+        "normal": "C:\\xampp\\htdocs\\export\\vendor\\dompdf\\dompdf\/lib\/fonts\/ipaexg",
+        "bold": "C:\\xampp\\htdocs\\export\\vendor\\dompdf\\dompdf\/lib\/fonts\/ipaexg",
+        "italic": "C:\\xampp\\htdocs\\export\\vendor\\dompdf\\dompdf\/lib\/fonts\/ipaexg",
+        "bold_italic": "C:\\xampp\\htdocs\\export\\vendor\\dompdf\\dompdf\/lib\/fonts\/ipaexg"
+    },
+    "aozoraminchomedium": {
+        "normal": "C:\\xampp\\htdocs\\export\\vendor\\dompdf\\dompdf\/lib\/fonts\/aozoraminchomedium",
+        "bold": "C:\\xampp\\htdocs\\export\\vendor\\dompdf\\dompdf\/lib\/fonts\/aozoraminchomedium",
+        "italic": "C:\\xampp\\htdocs\\export\\vendor\\dompdf\\dompdf\/lib\/fonts\/aozoraminchomedium",
+        "bold_italic": "C:\\xampp\\htdocs\\export\\vendor\\dompdf\\dompdf\/lib\/fonts\/aozoraminchomedium"
+    }
+}
