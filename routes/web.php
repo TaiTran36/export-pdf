@@ -18,4 +18,4 @@ Route::get('/', function () {
 });
 
 Route::get('/export-pdf', [\App\Http\Controllers\Controller::class, 'showScreen'])->name('showScreen');
-Route::post('/event-export-pdf', [\App\Http\Controllers\Controller::class, 'exportPDF'])->name('exportPDF');
+Route::get('/event-export-pdf', [\App\Http\Controllers\Controller::class, 'exportPDF'])->name('exportPDF');
